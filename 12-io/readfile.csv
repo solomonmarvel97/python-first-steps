@@ -1,0 +1,4 @@
+Reference,Transaction Date,Amount Paid,Paystack Fees,Total Fees,Amount Due,Settlement Date,Gateway Response,Customer (fullname),Transaction ID,Card Type,Card Bank,Country Code,Currency,Subaccount,Subaccount Amount Due,Source,Source Identifier,Status,Channel,Requested Amount
+T729183640909369,"Nov 30th, 2022 12:50:45 PM",10000,250.00,250.00,9750,"Dec 1st, 2022 12:00:00 AM",Approved,Christian Efobi,2326481392,visa debit,Access Bank,NG,NGN,,,checkout,,success,card,10000
+T795037011581802,"Nov 30th, 2022 06:09:45 PM",10000,250.00,250.00,9750,"Dec 1st, 2022 12:00:00 AM",Payment authorized.,Muhammad Abdulazeez,2327288699,mastercard debit,UNITED BANK FOR AFRICA,NG,NGN,,,checkout,,success,card,10000
+T008030950768663,"Dec 1st, 2022 08:34:59 AM",10000,250.00,250.00,9750,"Dec 2nd, 2022 12:00:00 AM",Payment successful,Kasie  Ugwu,2328828181,offline,Guaranty Trust Bank,NG,NGN,,,checkout,,success,ussd,10000
